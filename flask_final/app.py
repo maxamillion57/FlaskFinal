@@ -32,7 +32,7 @@ def room_list():
         {"name": "Deluxe Room", "type": "Double", "price": "$150"},
         {"name": "Suite", "type": "Luxury", "price": "$250"}
     ]
-    return render_template('rooms.html', rooms=rooms)
+    return render_template('room.html', rooms=rooms)
 
 def confirmation():
     return render_template('confirmation.html')
