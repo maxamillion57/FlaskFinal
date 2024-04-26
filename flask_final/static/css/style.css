@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Comic Sans MS', sans-serif;
-    background-color: palegoldenrod;
+    background-color: paleturquoise;
 }
 
 .navbar {
@@ -35,7 +35,7 @@ body {
 
 .btn-primary:hover {
     background-color: yellow; 
-    border-color: yellow;
+    border-color: rgb(23, 51, 172);
 }
 
 
